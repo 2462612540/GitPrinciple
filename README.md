@@ -1,8 +1,12 @@
-# Git-Principle  xjl1 branch
-本项目主要是介绍git的相关原理和工作实践问题与解决方案
-
+iple  xjl1 branch
+# Git-Principle  xjl2 branch
+本项目主要是介绍git的相关原理和工作实践问题与解决
+candy 11111111
+candy test
+项目主要是介绍git的相关原理和工作实践问题与解决方案
+candy test       
 ![Image text](Xmind/001.png)
-
+canhennghahhahahah
 -----------------------------------------------------------------------------------------------
 其他平台将同步更新
 
